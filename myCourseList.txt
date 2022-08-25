@@ -1,0 +1,4 @@
+CS 3110 - Application Programming in C# .NET
+CS 4300 - Algorithm Design and Analysis
+CS 4920 - Senior Project
+CYBER 2500 - Computer Systems Administration
